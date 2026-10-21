@@ -36,7 +36,6 @@ jobs:
 
       - name: Construire le site
         run: hugo --minify --baseURL "${{ github.server_url }}/${{ github.repository }}/"
-
       - name: Preparer les fichiers
         uses: actions/upload-pages-artifact@v3
         with:
