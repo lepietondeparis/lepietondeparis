@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>content on Le Piéton de Paris</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in content on Le Piéton de Paris</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propos</title>
+      <link>http://localhost:1313/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/a-propos/</guid>
+      <description>&lt;p&gt;Près des bords de Seine, une petite échoppe fait le bonheur des amoureux de Paris depuis plusieurs mois. Le Piéton de Paris a ouvert ses portes en mars 2018 et a depuis reçu un succès notable. En effet, cette librairie spécialisée sur Paris est vite devenue incontournable auprès des Parisiens, des provinciaux et même des étrangers.&lt;/p&gt;
+&lt;p&gt;Ainsi, les 35 m² du 58, rue de l’Hôtel-de-Ville regorgent de références littéraires mais pas que…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contactez-nous</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;contactez-nous&#34;&gt;Contactez-nous&lt;/h2&gt;
+&lt;p&gt;Vous pouvez nous contacter par téléphone ou par email.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Téléphone :&lt;/strong&gt; 02 40 00 00 00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email :&lt;/strong&gt; &lt;a href=&#34;mailto:lepietondeparis@gmail.com&#34;&gt;lepietondeparis@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adresse :&lt;/strong&gt; 58 Rue de l&amp;rsquo;Hôtel de Ville - 75004 Paris&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Facebook:&lt;/strong&gt;  &lt;a href=&#34;https://www.facebook.com/lepietondeparis&#34;&gt;https://www.facebook.com/lepietondeparis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Google&lt;/strong&gt; : &lt;a href=&#34;https://maps.app.goo.gl/Sk5ryDo88mxLzksZ8&#34;&gt;https://maps.app.goo.gl/Sk5ryDo88mxLzksZ8&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;venir-nous-voir&#34;&gt;Venir nous voir&lt;/h2&gt;
+&lt;h3 id=&#34;en-métro&#34;&gt;En métro&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;ligne ligne-metro-7&#34;&gt;7&lt;/span&gt; Ligne 7, à 183 m - Arrêt Pont Marie (Cité des Arts) - 14 Rue de l’Hôtel de Ville&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;en-bus&#34;&gt;En bus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;ligne ligne-bus-72&#34;&gt;72&lt;/span&gt; Ligne 72, à 57 m - Arrêt Pont Louis Philippe - Voie Georges Pompidou&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;ligne ligne-bus-67&#34;&gt;67&lt;/span&gt; Ligne 67, à 57 m - Arrêt Pont Louis Philippe - Voie Georges Pompidou&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;ligne ligne-bus-69&#34;&gt;69&lt;/span&gt; Ligne 69, à 212 m - Arrêt Rue de Jouy - 64 Rue François Miron&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Ils parlent de nous </title>
+      <link>http://localhost:1313/ils_parlent_de_nous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ils_parlent_de_nous/</guid>
+      <description>&lt;div class=&#34;presse&#34;&gt;
+
+  
+
+    &lt;article class=&#34;press-card&#34;&gt;
+
+      &lt;div class=&#34;press-card__logo&#34;&gt;
+        &lt;img
+          src=&#34;http://localhost:1313/images/petit_fut%c3%a9.png&#34;
+          alt=&#34;Logo de Petit futé&#34;
+          loading=&#34;lazy&#34;
+        &gt;
+      &lt;/div&gt;
+
+      &lt;div class=&#34;press-card__content&#34;&gt;
+
+        &lt;div class=&#34;press-card__meta&#34;&gt;
+          &lt;span class=&#34;press-card__media&#34;&gt;
+            Petit futé
+          &lt;/span&gt;
+
+          &lt;span class=&#34;press-card__separator&#34;&gt;·&lt;/span&gt;
+
+          &lt;time datetime=&#34;2026-01-01&#34;&gt;
+            1 janvier 2026
+          &lt;/time&gt;
+        &lt;/div&gt;
+
+        &lt;h3 class=&#34;press-card__title&#34;&gt;
+          &lt;a
+            href=&#34;https://www.petitfute.com/v17231-17299-paris-75004/c1168-shopping-mode-cadeaux/c521-librairie/c1243-specialiste/1730700-le-pieton-de-paris.html&#34;
+            target=&#34;_blank&#34;
+            rel=&#34;noopener noreferrer&#34;
+          &gt;
+            Recommandé petit futé 2026
+            &lt;span aria-hidden=&#34;true&#34;&gt;↗&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&#34;press-card__quote&#34;&gt;
+          C&amp;#39;est une très chouette librairie, située à quelques pas de la Seine, en plein coeur du 4e arrondissement.
+        &lt;/p&gt;
+
+      &lt;/div&gt;
+
+    &lt;/article&gt;
+
+  
+
+    &lt;article class=&#34;press-card&#34;&gt;
+
+      &lt;div class=&#34;press-card__logo&#34;&gt;
+        &lt;img
+          src=&#34;http://localhost:1313/images/sophie_travel.png&#34;
+          alt=&#34;Logo de Solo Sophie&#34;
+          loading=&#34;lazy&#34;
+        &gt;
+      &lt;/div&gt;
+
+      &lt;div class=&#34;press-card__content&#34;&gt;
+
+        &lt;div class=&#34;press-card__meta&#34;&gt;
+          &lt;span class=&#34;press-card__media&#34;&gt;
+            Solo Sophie
+          &lt;/span&gt;
+
+          &lt;span class=&#34;press-card__separator&#34;&gt;·&lt;/span&gt;
+
+          &lt;time datetime=&#34;2023-03-04&#34;&gt;
+            4 mars 2023
+          &lt;/time&gt;
+        &lt;/div&gt;
+
+        &lt;h3 class=&#34;press-card__title&#34;&gt;
+          &lt;a
+            href=&#34;https://www.solosophie.com/librairie-le-pieton-de-paris/&#34;
+            target=&#34;_blank&#34;
+            rel=&#34;noopener noreferrer&#34;
+          &gt;
+            Librairie Le Piéton de Paris: A Little Bookshop About Paris
+            &lt;span aria-hidden=&#34;true&#34;&gt;↗&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&#34;press-card__quote&#34;&gt;
+          Librairie Le Piéton de Paris is a tiny store specialising only in books about the French capital city and is one truly hidden gem of a bookstore…
+        &lt;/p&gt;
+
+      &lt;/div&gt;
+
+    &lt;/article&gt;
+
+  
+
+    &lt;article class=&#34;press-card&#34;&gt;
+
+      &lt;div class=&#34;press-card__logo&#34;&gt;
+        &lt;img
+          src=&#34;http://localhost:1313/images/conde_nast_traveler.png&#34;
+          alt=&#34;Logo de Condé nast traveler&#34;
+          loading=&#34;lazy&#34;
+        &gt;
+      &lt;/div&gt;
+
+      &lt;div class=&#34;press-card__content&#34;&gt;
+
+        &lt;div class=&#34;press-card__meta&#34;&gt;
+          &lt;span class=&#34;press-card__media&#34;&gt;
+            Condé nast traveler
+          &lt;/span&gt;
+
+          &lt;span class=&#34;press-card__separator&#34;&gt;·&lt;/span&gt;
+
+          &lt;time datetime=&#34;2020-09-07&#34;&gt;
+            7 septembre 2020
+          &lt;/time&gt;
+        &lt;/div&gt;
+
+        &lt;h3 class=&#34;press-card__title&#34;&gt;
+          &lt;a
+            href=&#34;https://www.traveler.es/viajes-urbanos/articulos/libreria-le-pieton-de-paris-rive-droite-libros-sobre-paris-librerias-mas-bonitas-del-mundo/18999&#34;
+            target=&#34;_blank&#34;
+            rel=&#34;noopener noreferrer&#34;
+          &gt;
+            Frédérique Aubier, apasionada de la lectura y de París, es su propietaria. 
+            &lt;span aria-hidden=&#34;true&#34;&gt;↗&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&#34;press-card__quote&#34;&gt;
+          Así los parisinos enamorados de su ambiente, los viajeros, los expatriados con anhelo de conocer aún más la ciudad y los amantes de la lengua de Molière, hacen sus delicias en **este rincón tan parisino.
+        &lt;/p&gt;
+
+      &lt;/div&gt;
+
+    &lt;/article&gt;
+
+  
+
+    &lt;article class=&#34;press-card&#34;&gt;
+
+      &lt;div class=&#34;press-card__logo&#34;&gt;
+        &lt;img
+          src=&#34;http://localhost:1313/images/zigzag.png&#34;
+          alt=&#34;Logo de Paris Zig zag&#34;
+          loading=&#34;lazy&#34;
+        &gt;
+      &lt;/div&gt;
+
+      &lt;div class=&#34;press-card__content&#34;&gt;
+
+        &lt;div class=&#34;press-card__meta&#34;&gt;
+          &lt;span class=&#34;press-card__media&#34;&gt;
+            Paris Zig zag
+          &lt;/span&gt;
+
+          &lt;span class=&#34;press-card__separator&#34;&gt;·&lt;/span&gt;
+
+          &lt;time datetime=&#34;2018-01-08&#34;&gt;
+            8 janvier 2018
+          &lt;/time&gt;
+        &lt;/div&gt;
+
+        &lt;h3 class=&#34;press-card__title&#34;&gt;
+          &lt;a
+            href=&#34;https://www.pariszigzag.fr/paris-au-quotidien/une-librairie-toute-entiere-dediee-a-paris/&#34;
+            target=&#34;_blank&#34;
+            rel=&#34;noopener noreferrer&#34;
+          &gt;
+            Une librairie tout entière dédiée à Paris ! 
+            &lt;span aria-hidden=&#34;true&#34;&gt;↗&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&#34;press-card__quote&#34;&gt;
+          Ainsi, les 35 m² du 58, rue de l’Hôtel-de-Ville regorgent de références littéraires mais pas que… Ici, la ville de Paris est honorée à travers la bande dessinée, la photo, l’architecture ou encore la poésie. 
+        &lt;/p&gt;
+
+      &lt;/div&gt;
+
+    &lt;/article&gt;
+
+  
+
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Les événements du mois</title>
+      <link>http://localhost:1313/event_month/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event_month/</guid>
+      <description>Retrouvez les événements à ne pas manquer.</description>
+    </item>
+  </channel>
+</rss>

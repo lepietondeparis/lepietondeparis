@@ -1,0 +1,28 @@
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon.png" | relURL }}">
+
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+
+<script>
+  (function () {
+    if (new URLSearchParams(window.location.search).has("embed")) {
+      document.documentElement.classList.add("is-embed");
+    }
+  })();
+</script>
+
+<style>
+  html.is-embed #custom-header,
+  html.is-embed #custom-footer,
+  html.is-embed footer,
+  html.is-embed #menu,
+  html.is-embed .top-link {
+    display: none !important;
+  }
+
+  html.is-embed main {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+</style>

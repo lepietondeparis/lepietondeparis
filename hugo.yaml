@@ -1,0 +1,17 @@
+baseURL: "http://localhost:1313/"
+languageCode: "fr"
+title: "Le Piéton de Paris"
+theme: "PaperMod"
+
+
+params:
+  ShowBreadCrumbs: false
+  ShowReadingTime: false
+  ShowCodeCopyButtons: true
+  defaultTheme: auto
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

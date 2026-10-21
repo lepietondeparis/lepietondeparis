@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+   
+    <header class="header"> 
+        <div class="site-title"> 
+            <h1>{{ .Site.Title }}</h1> 
+        </div> 
+        <nav> 
+         
+            <a href="/"  class="titre_header" >Accueil </a> 
+            <a href="/a-propos/"  class="titre_header" >À propos</a>
+             <a href="/contact/"  class="titre_header" >Contact</a> 
+            </nav> 
+            <a href="/" class="logo-link"> 
+                <img src="/images/logo_blanc.svg" alt="Le Piéton de Paris" class="logo"> 
+            </a> </header>
+<main>
+
+            <section class="hero">
+            <h2>Bienvenue au Piéton de Paris</h2>
+            <p>
+                Votre Librairie du Pont Marie.
+            </p>
+    
+            <a class="button" href="/contact/">Nous contacter</a>
+        </section>
+        <section>
+        <img src="/images/lepietondeparis.png" alt="Le Piéton de Paris" class="devanture_images"> 
+    </section>
+
+</main>
+
+<footer>
+    <p>© {{ now.Year }} {{ .Site.Title }}</p>
+</footer>
+
+</body>
+</html>

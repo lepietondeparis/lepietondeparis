@@ -1,0 +1,50 @@
+<div class="presse">
+
+  {{ range sort site.Data.presse "date" "desc" }}
+
+    <article class="press-card">
+
+      <div class="press-card__logo">
+        <img
+          src="{{ .logo | relURL }}"
+          alt="Logo de {{ .media }}"
+          loading="lazy"
+        >
+      </div>
+
+      <div class="press-card__content">
+
+        <div class="press-card__meta">
+          <span class="press-card__media">
+            {{ .media }}
+          </span>
+
+          <span class="press-card__separator">·</span>
+
+          <time datetime="{{ .date }}">
+            {{ time.AsTime .date | time.Format ":date_long" }}
+          </time>
+        </div>
+
+        <h3 class="press-card__title">
+          <a
+            href="{{ .url | safeURL }}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {{ .accroche }}
+            <span aria-hidden="true">↗</span>
+          </a>
+        </h3>
+
+        <p class="press-card__quote">
+          {{ .citation }}
+        </p>
+
+      </div>
+
+    </article>
+
+  {{ end }}
+
+</div>
