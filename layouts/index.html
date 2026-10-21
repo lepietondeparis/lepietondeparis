@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+
+    {{ partial "header.html" . }}
+
+    <main>
+
+        <section class="hero">
+            <h2>Bienvenue au Piéton de Paris</h2>
+
+            <div class="contact-info">
+
+                <div class="contact-item">
+                    <span class="contact-label">Téléphone</span>
+                    <a href="tel:0240000000">02 40 00 00 00</a>
+                </div>
+
+                <div class="contact-item">
+                    <span class="contact-label">Email</span>
+                    <a href="mailto:lepietondeparis@gmail.com">
+                        lepietondeparis@gmail.com
+                    </a>
+                </div>
+
+                <div class="contact-item">
+                    <span class="contact-label">Adresse</span>
+                    <span>58 Rue de l'Hôtel de Ville - 75004 Paris</span>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Calendrier des événements -->
+        <section class="home-events">
+            {{ partial "events.html" . }}
+        </section>
+
+    </main>
+
+    {{ partial "footer.html" . }}
+
+</body>
+</html>

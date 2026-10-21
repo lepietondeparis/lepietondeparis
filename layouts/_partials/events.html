@@ -1,0 +1,68 @@
+<div class="events-calendar" data-events-calendar>
+
+    <!-- En-tête du calendrier -->
+    <div class="calendar-header">
+      <div>
+        <p class="calendar-eyebrow">À NE PAS MANQUER</p>
+        <h2 class="calendar-title">Nos événements</h2>
+        <p class="calendar-subtitle">
+          Retrouvez-nous lors de nos prochains rendez-vous.
+        </p>
+      </div>
+  
+      <div class="calendar-navigation">
+        <button type="button" class="calendar-nav" data-prev
+                aria-label="Mois précédent">
+          &#8592;
+        </button>
+  
+        <span class="calendar-month" data-month></span>
+  
+        <button type="button" class="calendar-nav" data-next
+                aria-label="Mois suivant">
+          &#8594;
+        </button>
+      </div>
+    </div>
+  
+    <!-- Grille du calendrier -->
+    <div class="calendar-grid" data-grid>
+      <!-- Le calendrier est généré en JavaScript. -->
+    </div>
+  
+    <!-- Liste des événements -->
+    <div class="calendar-events">
+  
+      <div class="calendar-events__header">
+        <div>
+          <p class="calendar-eyebrow">AGENDA</p>
+          <h3 data-events-title>Les prochains événements</h3>
+        </div>
+  
+        <span class="calendar-count" data-count>0 événement</span>
+      </div>
+  
+      <div class="calendar-events__list" data-events-list>
+        <!-- Les événements sont générés en JavaScript. -->
+      </div>
+  
+    </div>
+  
+    <!-- Données JSON -->
+    <script type="application/json" data-events>
+      {{ site.Data.events | jsonify }}
+    </script>
+  
+  </div>
+  
+  <!-- Feuille de style -->
+  {{ $css := resources.Get "css/events.css" }}
+  {{ if $css }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{ end }}
+  
+  <!-- JavaScript -->
+  {{ $js := resources.Get "js/events.js" }}
+  {{ if $js }}
+    <script src="{{ $js.RelPermalink }}" defer></script>
+  {{ end }}
